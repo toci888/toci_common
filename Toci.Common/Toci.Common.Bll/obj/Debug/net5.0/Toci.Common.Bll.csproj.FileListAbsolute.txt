@@ -1,0 +1,5 @@
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.csproj.CoreCompileInputs.cache

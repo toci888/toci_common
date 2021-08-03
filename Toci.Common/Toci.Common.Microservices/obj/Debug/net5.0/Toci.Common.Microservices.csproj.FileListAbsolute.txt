@@ -1,0 +1,17 @@
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.deps.json
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\ref\Toci.Common.Microservices.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Bll.Interfaces.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Tournament.Microservices.Interfaces.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Bll.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Tournament.Microservices.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.csproj.CopyComplete
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\ref\Toci.Common.Microservices.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.pdb

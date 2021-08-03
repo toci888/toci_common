@@ -1,0 +1,15 @@
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\bin\Debug\net5.0\Toci.Common.Database.deps.json
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\bin\Debug\net5.0\Toci.Common.Database.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\bin\Debug\net5.0\ref\Toci.Common.Database.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\bin\Debug\net5.0\Toci.Common.Database.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\bin\Debug\net5.0\Toci.Common.Database.Interfaces.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\bin\Debug\net5.0\Toci.Common.Database.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\Toci.Common.Database.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\Toci.Common.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\Toci.Common.Database.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\Toci.Common.Database.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\Toci.Common.Database.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\Toci.Common.Database.csproj.CopyComplete
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\Toci.Common.Database.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\ref\Toci.Common.Database.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database\obj\Debug\net5.0\Toci.Common.Database.pdb
