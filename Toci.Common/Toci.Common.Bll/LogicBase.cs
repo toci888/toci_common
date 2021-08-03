@@ -5,7 +5,6 @@ using Microsoft.EntityFrameworkCore;
 using Toci.Common.Bll.Interfaces;
 using Toci.Common.Database;
 using Toci.Common.Database.Interfaces;
-using Toci.Common.Database.Persistence.Models;
 
 namespace Toci.Common.Bll
 {
@@ -13,7 +12,7 @@ namespace Toci.Common.Bll
     {
         protected virtual DbContext GetEfHandle()
         {
-            return new BerserkWmsContext();
+            return new DbContext(null);
         }
 
         public virtual TModel Insert(TModel model)

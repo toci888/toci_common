@@ -3,3 +3,17 @@ C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\ne
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.AssemblyInfoInputs.cache
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.AssemblyInfo.cs
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Bll.deps.json
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Bll.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\ref\Toci.Common.Bll.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Bll.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Bll.Interfaces.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Database.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Database.Interfaces.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Bll.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Database.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Database.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.csproj.CopyComplete
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\ref\Toci.Common.Bll.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.pdb
