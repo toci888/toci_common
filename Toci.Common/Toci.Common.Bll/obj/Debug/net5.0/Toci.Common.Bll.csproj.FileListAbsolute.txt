@@ -17,3 +17,6 @@ C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\ne
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\ref\Toci.Common.Bll.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Bll.runtimeconfig.json
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\bin\Debug\net5.0\Toci.Common.Bll.runtimeconfig.dev.json
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll\obj\Debug\net5.0\Toci.Common.Bll.genruntimeconfig.cache

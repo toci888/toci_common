@@ -9,3 +9,4 @@ C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database.Interfa
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\Toci.Common.Database.Interfaces.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\ref\Toci.Common.Database.Interfaces.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\Toci.Common.Database.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\Toci.Common.Database.Interfaces.csproj.AssemblyReference.cache

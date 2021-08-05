@@ -93,6 +93,9 @@
               "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
                 "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj"
               },
+              "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj"
+              },
               "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database\\Toci.Common.Database.csproj": {
                 "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database\\Toci.Common.Database.csproj"
               }
@@ -109,6 +112,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.8, )"
