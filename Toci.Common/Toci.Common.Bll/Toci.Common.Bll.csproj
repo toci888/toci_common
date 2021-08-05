@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Toci.Common.Bll.Interfaces\Toci.Common.Bll.Interfaces.csproj" />
+    <ProjectReference Include="..\Toci.Common.Database.Interfaces\Toci.Common.Database.Interfaces.csproj" />
     <ProjectReference Include="..\Toci.Common.Database\Toci.Common.Database.csproj" />
   </ItemGroup>
 
