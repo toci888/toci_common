@@ -10,7 +10,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Mvc": "2.2.0",
           "Toci.Common.Bll.Interfaces": "1.0.0",
-          "Toci.Tournament.Microservices.Interfaces": "1.0.0"
+          "Toci.Common.Microservices.Interfaces": "1.0.0"
         },
         "runtime": {
           "Toci.Common.Microservices.dll": {}
@@ -1694,9 +1694,9 @@
           "Toci.Common.Bll.Interfaces.dll": {}
         }
       },
-      "Toci.Tournament.Microservices.Interfaces/1.0.0": {
+      "Toci.Common.Microservices.Interfaces/1.0.0": {
         "runtime": {
-          "Toci.Tournament.Microservices.Interfaces.dll": {}
+          "Toci.Common.Microservices.Interfaces.dll": {}
         }
       }
     }
@@ -2846,7 +2846,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Toci.Tournament.Microservices.Interfaces/1.0.0": {
+    "Toci.Common.Microservices.Interfaces/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Toci.Common.Bll.Interfaces\Toci.Common.Bll.Interfaces.csproj" />
-    <ProjectReference Include="..\Toci.Common.Microservices.Interfaces\Toci.Tournament.Microservices.Interfaces.csproj" />
+    <ProjectReference Include="..\Toci.Common.Microservices.Interfaces\Toci.Common.Microservices.Interfaces.csproj" />
   </ItemGroup>
 
 </Project>

@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toci.Common.Database.Interf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toci.Common.Microservices", "Toci.Common.Microservices\Toci.Common.Microservices.csproj", "{16A24404-C195-4406-9213-6ED7E62A0FF6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toci.Tournament.Microservices.Interfaces", "Toci.Common.Microservices.Interfaces\Toci.Tournament.Microservices.Interfaces.csproj", "{14B9B7A6-F300-42B7-B855-6B4D3CD090E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toci.Common.Microservices.Interfaces", "Toci.Common.Microservices.Interfaces\Toci.Common.Microservices.Interfaces.csproj", "{14B9B7A6-F300-42B7-B855-6B4D3CD090E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

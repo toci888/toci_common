@@ -20,3 +20,4 @@ C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices.In
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices.Interfaces\obj\Debug\net5.0\Toci.Tournament.Microservices.Interfaces.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices.Interfaces\obj\Debug\net5.0\ref\Toci.Tournament.Microservices.Interfaces.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices.Interfaces\obj\Debug\net5.0\Toci.Tournament.Microservices.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices.Interfaces\obj\Debug\net5.0\Toci.Tournament.Microservices.Interfaces.csproj.AssemblyReference.cache

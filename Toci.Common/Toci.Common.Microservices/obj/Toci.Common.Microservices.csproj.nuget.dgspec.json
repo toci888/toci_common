@@ -62,12 +62,12 @@
         }
       }
     },
-    "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Tournament.Microservices.Interfaces.csproj": {
+    "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Tournament.Microservices.Interfaces.csproj",
-        "projectName": "Toci.Tournament.Microservices.Interfaces",
-        "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Tournament.Microservices.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj",
+        "projectName": "Toci.Common.Microservices.Interfaces",
+        "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj",
         "packagesPath": "C:\\Users\\kacpe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
@@ -151,8 +151,8 @@
               "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
                 "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj"
               },
-              "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Tournament.Microservices.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Tournament.Microservices.Interfaces.csproj"
+              "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj"
               }
             }
           }
