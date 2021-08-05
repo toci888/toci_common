@@ -8,12 +8,9 @@ using Toci.Common.Database.Interfaces;
 
 namespace Toci.Common.Bll
 {
-    public class LogicBase<TModel> : ILogicBase<TModel> where TModel : class
+    public abstract class LogicBase<TModel> : ILogicBase<TModel> where TModel : class
     {
-        protected virtual DbContext GetEfHandle()
-        {
-            return new DbContext(null);
-        }
+        protected abstract DbContext GetEfHandle();
 
         public virtual TModel Insert(TModel model)
         {
