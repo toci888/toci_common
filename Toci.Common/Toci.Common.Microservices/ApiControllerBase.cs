@@ -22,9 +22,9 @@ namespace Toci.Common.Microservices
         }
 
         [HttpGet]
-        public virtual IQueryable<TModel> Get(Expression<Func<TModel, bool>> filter)
+        public virtual IQueryable<TModel> Get()
         {
-            return Logic.Select(filter);
+            return Logic.Select(m => true);
         }
 
         [HttpPut]
