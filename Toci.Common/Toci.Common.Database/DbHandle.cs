@@ -38,13 +38,13 @@ namespace Toci.Common.Database
             return DatabaseHandle.Set<TModel>().AsQueryable();
         }
 
-        public bool Update(TModel model)
+        public TModel Update(TModel model)
         {
             DatabaseHandle.Update(model);
 
             DatabaseHandle.SaveChangesAsync();
 
-            return true;
+            return model;
         }
 
         public void Dispose()

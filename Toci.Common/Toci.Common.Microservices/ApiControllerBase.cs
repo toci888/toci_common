@@ -28,7 +28,7 @@ namespace Toci.Common.Microservices
         }
 
         [HttpPut]
-        public virtual bool Update(TModel model)
+        public virtual TModel Update(TModel model)
         {
             return Logic.Update(model);
         }

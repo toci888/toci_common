@@ -8,7 +8,7 @@ namespace Toci.Common.Microservices.Interfaces
     {
         public TModel Create(TModel model);
         public IQueryable<TModel> Get();
-        public bool Update(TModel model);
+        public TModel Update(TModel model);
         public int Delete(TModel model);
     }
 }

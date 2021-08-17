@@ -9,3 +9,4 @@ C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll.Interfaces\o
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll.Interfaces\obj\Debug\net5.0\Toci.Common.Bll.Interfaces.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll.Interfaces\obj\Debug\net5.0\ref\Toci.Common.Bll.Interfaces.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll.Interfaces\obj\Debug\net5.0\Toci.Common.Bll.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Bll.Interfaces\obj\Debug\net5.0\Toci.Common.Bll.Interfaces.csproj.AssemblyReference.cache

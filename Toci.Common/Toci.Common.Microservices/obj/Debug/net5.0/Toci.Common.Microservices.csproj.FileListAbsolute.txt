@@ -3,7 +3,9 @@ C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bi
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\ref\Toci.Common.Microservices.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.pdb
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Bll.Interfaces.dll
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.Interfaces.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Bll.Interfaces.pdb
+C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.Interfaces.pdb
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.csproj.AssemblyReference.cache
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.AssemblyInfoInputs.cache
@@ -13,5 +15,3 @@ C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\ob
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\ref\Toci.Common.Microservices.dll
 C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.pdb
-C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.Interfaces.dll
-C:\Users\kacpe\source\repos\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.Interfaces.pdb

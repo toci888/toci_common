@@ -26,7 +26,7 @@ namespace Toci.Common.Bll
             return DbHandle.Select().Where(filter).AsQueryable();
         }
 
-        public virtual bool Update(TModel model)
+        public virtual TModel Update(TModel model)
         {
             IDbHandle<TModel> DbHandle = new DbHandle<TModel>(GetEfHandle);
 

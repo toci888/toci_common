@@ -10,7 +10,7 @@ namespace Toci.Common.Bll.Interfaces
 
         TModel Insert(TModel model);
 
-        bool Update(TModel model);
+        TModel Update(TModel model);
 
         int Delete(TModel model);
     }
