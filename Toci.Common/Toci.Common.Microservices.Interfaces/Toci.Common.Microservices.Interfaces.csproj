@@ -4,4 +4,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Toci.Earrai\Toci.Earrai\Toci.Earrai.Bll.Models\Toci.Earrai.Bll.Models.csproj" />
+    <ProjectReference Include="..\..\..\Toci.Earrai\Toci.Earrai\Toci.Earrai.Database.Persistence\Toci.Earrai.Database.Persistence.csproj" />
+    <ProjectReference Include="..\Toci.Common.Bll.Interfaces\Toci.Common.Bll.Interfaces.csproj" />
+  </ItemGroup>
+
 </Project>

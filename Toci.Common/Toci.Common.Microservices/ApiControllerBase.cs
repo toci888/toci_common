@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using Toci.Common.Bll.Interfaces;
@@ -22,7 +23,7 @@ namespace Toci.Common.Microservices
         }
 
         [HttpGet]
-        public virtual IQueryable<TModel> Get()
+        public virtual IEnumerable<TModel> Get()
         {
             return Logic.Select(m => true);
         }

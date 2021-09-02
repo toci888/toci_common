@@ -21,6 +21,8 @@ namespace Toci.Common.Database
 
             DatabaseHandle.SaveChangesAsync();
 
+            DatabaseHandle?.Dispose();
+
             return 1;
         }
 
@@ -30,12 +32,18 @@ namespace Toci.Common.Database
 
             DatabaseHandle.SaveChanges();
 
+            DatabaseHandle?.Dispose();
+
             return (TModel)(entr.Entity);
         }
 
         public IQueryable<TModel> Select()
         {
-            return DatabaseHandle.Set<TModel>().AsQueryable();
+            IQueryable<TModel> result = DatabaseHandle.Set<TModel>().AsQueryable();
+
+            //DatabaseHandle.Dispose();
+
+            return result;
         }
 
         public TModel Update(TModel model)
@@ -43,6 +51,8 @@ namespace Toci.Common.Database
             DatabaseHandle.Update(model);
 
             DatabaseHandle.SaveChangesAsync();
+
+            DatabaseHandle?.Dispose();
 
             return model;
         }

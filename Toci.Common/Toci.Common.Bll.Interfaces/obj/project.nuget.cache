@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JyiMDjOhCGloBJ4332SylC8d0AKNqTismAlJdERquadNbdeT5NeUYISJSY0UCk4tWKNSuvPUQVWT52K3OjVHog==",
+  "dgSpecHash": "oL5IROUwlx5gbt3qL7yKuD/ADRNPPwqKuXSVdbtzMTvxgQqtnmIvndvarN1GCjOqPgfAdqxS5C4rRZSydf1L5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj",
+  "projectFilePath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

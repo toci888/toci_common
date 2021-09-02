@@ -1,25 +1,157 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices\\Toci.Common.Microservices.csproj": {}
+    "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices\\Toci.Common.Microservices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
+    "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Bll.Models\\Toci.Earrai.Bll.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj",
+        "projectUniqueName": "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Bll.Models\\Toci.Earrai.Bll.Models.csproj",
+        "projectName": "Toci.Earrai.Bll.Models",
+        "projectPath": "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Bll.Models\\Toci.Earrai.Bll.Models.csproj",
+        "packagesPath": "C:\\Users\\TociEarrai\\.nuget\\packages\\",
+        "outputPath": "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Bll.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TociEarrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Database.Persistence\\Toci.Earrai.Database.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Database.Persistence\\Toci.Earrai.Database.Persistence.csproj",
+        "projectName": "Toci.Earrai.Database.Persistence",
+        "projectPath": "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Database.Persistence\\Toci.Earrai.Database.Persistence.csproj",
+        "packagesPath": "C:\\Users\\TociEarrai\\.nuget\\packages\\",
+        "outputPath": "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Database.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TociEarrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj",
         "projectName": "Toci.Common.Bll.Interfaces",
-        "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\kacpe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\obj\\",
+        "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\TociEarrai\\.nuget\\packages\\",
+        "outputPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kacpe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\TociEarrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,84 +190,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj": {
+    "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj",
+        "projectUniqueName": "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj",
         "projectName": "Toci.Common.Microservices.Interfaces",
-        "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\kacpe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\obj\\",
+        "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\TociEarrai\\.nuget\\packages\\",
+        "outputPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kacpe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices\\Toci.Common.Microservices.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices\\Toci.Common.Microservices.csproj",
-        "projectName": "Toci.Common.Microservices",
-        "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices\\Toci.Common.Microservices.csproj",
-        "packagesPath": "C:\\Users\\kacpe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\kacpe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\TociEarrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -148,11 +218,75 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj"
+              "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Bll.Models\\Toci.Earrai.Bll.Models.csproj": {
+                "projectPath": "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Bll.Models\\Toci.Earrai.Bll.Models.csproj"
               },
-              "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\kacpe\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj"
+              "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Database.Persistence\\Toci.Earrai.Database.Persistence.csproj": {
+                "projectPath": "C:\\Toci.Earrai\\Toci.Earrai\\Toci.Earrai.Database.Persistence\\Toci.Earrai.Database.Persistence.csproj"
+              },
+              "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
+                "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices\\Toci.Common.Microservices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices\\Toci.Common.Microservices.csproj",
+        "projectName": "Toci.Common.Microservices",
+        "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices\\Toci.Common.Microservices.csproj",
+        "packagesPath": "C:\\Users\\TociEarrai\\.nuget\\packages\\",
+        "outputPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TociEarrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
+                "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj"
+              },
+              "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj": {
+                "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Microservices.Interfaces\\Toci.Common.Microservices.Interfaces.csproj"
               }
             }
           }
@@ -187,7 +321,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
