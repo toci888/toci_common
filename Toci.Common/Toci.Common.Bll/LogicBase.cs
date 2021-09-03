@@ -26,7 +26,11 @@ namespace Toci.Common.Bll
 
         public virtual IEnumerable<TModel> Select(Expression<Func<TModel, bool>> filter)
         {
-            return DbHandle.Select().Where(filter);
+            List<TModel> result = DbHandle.Select().Where(filter).ToList();
+
+            DbHandle.Dispose();
+
+            return result;
             
         }
 
