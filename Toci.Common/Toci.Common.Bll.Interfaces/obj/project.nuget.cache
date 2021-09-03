@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oL5IROUwlx5gbt3qL7yKuD/ADRNPPwqKuXSVdbtzMTvxgQqtnmIvndvarN1GCjOqPgfAdqxS5C4rRZSydf1L5Q==",
+  "dgSpecHash": "f2SUS1/hZAHlSARmPhCirQaopPVS6F19ehDGuMNriE6RkwdrqpENlxeAqrI2nYCg5clv1adGl5hIcu9TPv/r3A==",
   "success": true,
-  "projectFilePath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj",
+  "projectFilePath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

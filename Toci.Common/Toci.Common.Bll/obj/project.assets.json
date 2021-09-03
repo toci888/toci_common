@@ -1495,19 +1495,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TociEarrai\\.nuget\\packages\\": {}
+    "C:\\Users\\eb110\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll\\Toci.Common.Bll.csproj",
+      "projectUniqueName": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Bll\\Toci.Common.Bll.csproj",
       "projectName": "Toci.Common.Bll",
-      "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll\\Toci.Common.Bll.csproj",
-      "packagesPath": "C:\\Users\\TociEarrai\\.nuget\\packages\\",
-      "outputPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll\\obj\\",
+      "projectPath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Bll\\Toci.Common.Bll.csproj",
+      "packagesPath": "C:\\Users\\eb110\\.nuget\\packages\\",
+      "outputPath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Bll\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TociEarrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eb110\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1521,14 +1521,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
-              "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj"
+            "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj": {
+              "projectPath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Bll.Interfaces\\Toci.Common.Bll.Interfaces.csproj"
             },
-            "C:\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj": {
-              "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj"
+            "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj": {
+              "projectPath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj"
             },
-            "C:\\toci_common\\Toci.Common\\Toci.Common.Database\\Toci.Common.Database.csproj": {
-              "projectPath": "C:\\toci_common\\Toci.Common\\Toci.Common.Database\\Toci.Common.Database.csproj"
+            "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database\\Toci.Common.Database.csproj": {
+              "projectPath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database\\Toci.Common.Database.csproj"
             }
           }
         }
@@ -1567,7 +1567,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

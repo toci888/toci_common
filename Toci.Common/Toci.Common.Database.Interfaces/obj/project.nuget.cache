@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKRV4cdU+4whoIdZqAIxW3fmeKzFIKhrv0wHMsap7eCEwGVj2Sc+A+RfVIE2lGz5C9rOun8PJjPmrbH6ZV5Gmw==",
+  "dgSpecHash": "A+Gtbu3eYz421nijxNdMoa2CiStIPZcsut2K2vMihVDFVSwfxmO9s5YO4XBzgnlfls3kjWx6zo2PPKyEgB+O5Q==",
   "success": true,
-  "projectFilePath": "C:\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj",
+  "projectFilePath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

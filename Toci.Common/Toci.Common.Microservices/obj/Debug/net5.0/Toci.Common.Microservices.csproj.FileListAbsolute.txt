@@ -32,10 +32,6 @@ C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Microservices\obj\De
 C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.dll
 C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\ref\Toci.Common.Microservices.dll
 C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Microservices\obj\Debug\net5.0\Toci.Common.Microservices.pdb
-C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Earrai.Bll.Models.dll
-C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Earrai.Bll.Models.pdb
-C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Earrai.Database.Persistence.dll
-C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Earrai.Database.Persistence.pdb
 C:\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.deps.json
 C:\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\Toci.Common.Microservices.dll
 C:\toci_common\Toci.Common\Toci.Common.Microservices\bin\Debug\net5.0\ref\Toci.Common.Microservices.dll

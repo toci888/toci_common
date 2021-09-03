@@ -28,7 +28,7 @@ namespace Toci.Common.Bll
         {
             List<TModel> result = DbHandle.Select().Where(filter).ToList();
 
-            DbHandle.Dispose();
+          //  DbHandle.Dispose();
 
             return result;
             

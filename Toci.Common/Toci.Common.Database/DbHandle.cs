@@ -21,7 +21,7 @@ namespace Toci.Common.Database
 
             DatabaseHandle.SaveChangesAsync();
 
-            DatabaseHandle?.Dispose();
+           // DatabaseHandle?.Dispose();
 
             return 1;
         }
@@ -32,7 +32,7 @@ namespace Toci.Common.Database
 
             DatabaseHandle.SaveChanges();
 
-            DatabaseHandle?.Dispose();
+           // DatabaseHandle?.Dispose();
 
             return (TModel)(entr.Entity);
         }
@@ -52,7 +52,7 @@ namespace Toci.Common.Database
 
             DatabaseHandle.SaveChangesAsync();
 
-            DatabaseHandle?.Dispose();
+          //  DatabaseHandle?.Dispose();
 
             return model;
         }

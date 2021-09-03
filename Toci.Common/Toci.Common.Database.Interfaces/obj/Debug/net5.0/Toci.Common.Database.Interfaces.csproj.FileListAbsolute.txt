@@ -32,3 +32,4 @@ C:\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\Toci
 C:\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\Toci.Common.Database.Interfaces.dll
 C:\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\ref\Toci.Common.Database.Interfaces.dll
 C:\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\Toci.Common.Database.Interfaces.pdb
+C:\VisualStudioProgramy\toci_common\Toci.Common\Toci.Common.Database.Interfaces\obj\Debug\net5.0\Toci.Common.Database.Interfaces.csproj.AssemblyReference.cache
