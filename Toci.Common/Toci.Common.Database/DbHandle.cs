@@ -39,7 +39,7 @@ namespace Toci.Common.Database
 
         public IQueryable<TModel> Select()
         {
-            IQueryable<TModel> result = DatabaseHandle.Set<TModel>().AsQueryable();
+            IQueryable<TModel> result = DatabaseHandle.Set<TModel>().AsQueryable().AsNoTracking();
 
             //DatabaseHandle.Dispose();
 
