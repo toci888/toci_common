@@ -1,21 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj": {}
+    "C:\\Users\\bzapa\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj": {
+    "C:\\Users\\bzapa\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\bzapa\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj",
         "projectName": "Toci.Common.Database.Interfaces",
-        "projectPath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\eb110\\.nuget\\packages\\",
-        "outputPath": "C:\\VisualStudioProgramy\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\obj\\",
+        "projectPath": "C:\\Users\\bzapa\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\Toci.Common.Database.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\bzapa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bzapa\\source\\repos\\toci_common\\Toci.Common\\Toci.Common.Database.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\eb110\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\bzapa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -54,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
