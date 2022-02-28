@@ -12,11 +12,18 @@ namespace Toci.Common.Bll
     public abstract class LogicBase<TModel> : ILogicBase<TModel> where TModel : class
     {
         protected abstract DbContext GetEfHandle();
+        protected DbContext CurrentEfHandle;
         protected IDbHandle<TModel> DbHandle;
 
         public LogicBase()
         {
             DbHandle = new DbHandle<TModel>(GetEfHandle);
+            CurrentEfHandle = GetEfHandle();
+        }
+
+        public virtual DbContext GetCurrentEfHandle()
+        {
+            return CurrentEfHandle;
         }
 
         public virtual TModel Insert(TModel model)
