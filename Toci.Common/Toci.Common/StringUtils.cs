@@ -5,7 +5,7 @@ namespace Toci.Common
     public static class StringUtils
     {
         private static Random randomizer = new Random();
-        private static string alphabet = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890";
+        private static string alphabet = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890!@#$%^&*()_+";
 
         public static string GetRandomString(int maxLength)
         {
