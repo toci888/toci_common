@@ -31,7 +31,7 @@ namespace Toci.Common.Bll
             return DbHandle.Insert(model);
         }
 
-        public virtual IEnumerable<TModel> Select(Expression<Func<TModel, bool>> filter)
+        public virtual IEnumerable<TModel> Select(Expression<Func<TModel, bool>> filter) // model => model.id == ??
         {
             List<TModel> result = DbHandle.Select().Where(filter).ToList();
 

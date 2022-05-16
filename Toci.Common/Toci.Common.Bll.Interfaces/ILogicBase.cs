@@ -7,7 +7,7 @@ namespace Toci.Common.Bll.Interfaces
 {
     public interface ILogicBase<TModel> where TModel : class
     {
-        IEnumerable<TModel> Select(Expression<Func<TModel, bool>> filter);
+        IEnumerable<TModel> Select(Expression<Func<TModel, bool>> filter); // c => c.Id == 5 -> where course.id = 5
 
         TModel Insert(TModel model);
 
