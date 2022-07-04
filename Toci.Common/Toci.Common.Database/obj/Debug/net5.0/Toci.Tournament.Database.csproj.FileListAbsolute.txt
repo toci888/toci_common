@@ -1,0 +1,15 @@
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\bin\Debug\net5.0\Toci.Tournament.Database.deps.json
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\bin\Debug\net5.0\Toci.Tournament.Database.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\bin\Debug\net5.0\ref\Toci.Tournament.Database.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\bin\Debug\net5.0\Toci.Tournament.Database.pdb
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\bin\Debug\net5.0\Toci.Tournament.Database.Interfaces.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\bin\Debug\net5.0\Toci.Tournament.Database.Interfaces.pdb
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\Toci.Tournament.Database.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\Toci.Tournament.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\Toci.Tournament.Database.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\Toci.Tournament.Database.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\Toci.Tournament.Database.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\Toci.Tournament.Database.csproj.CopyComplete
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\Toci.Tournament.Database.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\ref\Toci.Tournament.Database.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Database\obj\Debug\net5.0\Toci.Tournament.Database.pdb

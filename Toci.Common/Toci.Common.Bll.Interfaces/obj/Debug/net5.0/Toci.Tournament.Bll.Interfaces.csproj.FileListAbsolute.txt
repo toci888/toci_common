@@ -1,0 +1,11 @@
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\bin\Debug\net5.0\Toci.Tournament.Bll.Interfaces.deps.json
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\bin\Debug\net5.0\Toci.Tournament.Bll.Interfaces.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\bin\Debug\net5.0\ref\Toci.Tournament.Bll.Interfaces.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\bin\Debug\net5.0\Toci.Tournament.Bll.Interfaces.pdb
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\obj\Debug\net5.0\Toci.Tournament.Bll.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\obj\Debug\net5.0\Toci.Tournament.Bll.Interfaces.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\obj\Debug\net5.0\Toci.Tournament.Bll.Interfaces.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\obj\Debug\net5.0\Toci.Tournament.Bll.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\obj\Debug\net5.0\Toci.Tournament.Bll.Interfaces.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\obj\Debug\net5.0\ref\Toci.Tournament.Bll.Interfaces.dll
+C:\Users\kacpe\source\repos\Toci.Tournament\Toci.Tournament.Bll.Interfaces\obj\Debug\net5.0\Toci.Tournament.Bll.Interfaces.pdb
