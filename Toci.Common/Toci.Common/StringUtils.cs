@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Toci.Common
 {
@@ -17,6 +18,11 @@ namespace Toci.Common
             }
 
             return result;
+        }
+
+        public static bool IsNumber(string candidate)
+        {
+            return candidate.All(char.IsDigit);
         }
     }
 }
