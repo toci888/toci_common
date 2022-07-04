@@ -24,5 +24,10 @@ namespace Toci.Common
         {
             return candidate.All(char.IsDigit);
         }
+
+        public static bool IsEmail(string candidate)
+        {
+            return candidate.Contains("@");
+        }
     }
 }
