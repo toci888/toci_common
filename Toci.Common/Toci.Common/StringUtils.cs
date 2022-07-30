@@ -22,6 +22,11 @@ namespace Toci.Common
 
         public static bool IsNumber(string candidate)
         {
+            if (candidate == null)
+            {
+                return false;
+            }
+
             return candidate.All(char.IsDigit);
         }
 
