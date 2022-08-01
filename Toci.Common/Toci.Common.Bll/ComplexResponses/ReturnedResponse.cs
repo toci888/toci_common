@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Toci.Common.Bll.Errors
 {
-    public abstract class ReturnedResponse<TResult>
+    public class ReturnedResponse<TResult>
     {
         public TResult MethodResult { get; set; }
 
