@@ -21,16 +21,18 @@ namespace Toci.Common.Bll
 
         public virtual bool SendEmail(EmailContent content)
         {
+            BodyBuilder bodyBuilder = new BodyBuilder();
+
+            bodyBuilder.HtmlBody = content.Body;
+
             foreach (string emailTo in content.EmailTo)
             {
                 MimeMessage message = new MimeMessage();
                 message.From.Add(new MailboxAddress(content.From, Settings.AdminLoginAddress)); //content.EmailFrom
                 message.To.Add(MailboxAddress.Parse(emailTo));
                 message.Subject = content.Subject;
-                message.Body = new TextPart(MimeKit.Text.TextFormat.Text)
-                {
-                    Text = content.Body
-                };
+
+                message.Body = bodyBuilder.ToMessageBody();
 
                 SmtpClient client = new SmtpClient();
                 try
