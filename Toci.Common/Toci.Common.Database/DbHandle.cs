@@ -28,6 +28,7 @@ namespace Toci.Common.Database
 
         public TModel Insert(TModel model)
         {
+            // insert into product (id, ....)
             EntityEntry entr = DatabaseHandle.Set<TModel>().Add(model);
 
             DatabaseHandle.SaveChanges();
