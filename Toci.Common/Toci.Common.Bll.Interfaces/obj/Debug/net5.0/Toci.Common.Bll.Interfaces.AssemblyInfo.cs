@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Toci.Common.Bll.Interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce14476d5a1fa2df1d351a3317f922544521fb7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Toci.Common.Bll.Interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Toci.Common.Bll.Interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
