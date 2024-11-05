@@ -18,24 +18,28 @@ namespace Toci.Common.Microservices
         }
 
         [HttpPost]
+        [Route("Create")]
         public virtual TModel Create(TModel model)
         {
             return Logic.Insert(model);
         }
 
         [HttpGet]
+        [Route("Select")]
         public virtual IEnumerable<TModel> Get()
         {
             return Logic.Select(m => true);
         }
 
         [HttpPut]
+        [Route("Update")]
         public virtual TModel Update(TModel model)
         {
             return Logic.Update(model);
         }
 
         [HttpDelete]
+        [Route("Delete")]
         public virtual int Delete(TModel model)
         {
             return Logic.Delete(model);
